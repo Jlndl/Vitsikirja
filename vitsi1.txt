@@ -1,2 +1,6 @@
-Mustanaamion meni nakkikioskille ja myyjä kysyi: "Tuleeko kaikki mausteet?"
+//tietäjät tietää
+
+Mustanaamion meni nakkikioskille ja tilas lihiksen. Myyjä kysyi: "Tuleeko kaikki mausteet?"
 Mustanaamio vastasi: "Ei" 
+
+https://www.youtube.com/watch?v=OmG63tYOKEY
